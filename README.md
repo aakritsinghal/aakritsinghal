@@ -1,10 +1,11 @@
-Hi, I’m Aakrit Singhal
+                                                      Hi 👋, I'm Aakrit.
+ --------------------------------------------------------------------------------------------------------------------------------------------
 
-I am currently a high school student, interested in Computer Science and its applications in Machine learning.
+I am currently a high school student, interested in Computer Science and its applications in Machine learning.🌱
 
 My passion for STEM and CS originated from me completing few online courses on Python and Java. Specific interests in machine learning and AI emerged when I read articles on applications such as driver distraction detection and fake news. This made me pursue my interests for NLP and Computer Vision applications. 
 
-Some of my projects include:
+📫 Some of my projects include:
 - Driver Distraction Detection Model 
 - Fake News Detection Model 
 - Medical Imaging of X-rays for detection of penumonia and COVID-19
