@@ -1,6 +1,5 @@
-                                                      Hi 👋, I'm Aakrit.
- --------------------------------------------------------------------------------------------------------------------------------------------
-
+Hi👋, I am Aakrit.
+-------------------------------------------------------------------------------------------------------------------------------------------
 I am currently a high school student, interested in Computer Science and its applications in Machine learning.🌱
 
 My passion for STEM and CS originated from me completing few online courses on Python and Java. Specific interests in machine learning and AI emerged when I read articles on applications such as driver distraction detection and fake news. This made me pursue my interests for NLP and Computer Vision applications. 
