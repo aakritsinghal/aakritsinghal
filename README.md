@@ -50,9 +50,9 @@ You can click the Preview link to take a look at your changes.
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/aakritsinghal)](https://github.com/aakritsinghal)
 [![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab&link=https://github.com/aakritsinghal)](https://gitlab.com/rahul-ghadge) 
 
-<!----![Aakrit Singhal Stats](https://github-readme-stats.vercel.app/api?username=aakritsinghal&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!------![Aakrit Singhal Stats](https://github-readme-stats.vercel.app/api?username=aakritsinghal&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <a href="https://github.com/aakritsinghal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakritsinghal&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakritsinghal&theme=radical&hide=jupyter%20notebook" />
 </a>
----->
+------>
