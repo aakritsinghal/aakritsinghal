@@ -52,6 +52,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <!---![Aakrit Singhal Stats](https://github-readme-stats.vercel.app/api?username=aakritsinghal&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
---->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aakritsinghal&layout=compact&hide=jupyter%20notebook)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aakritsinghal&layout=compact&hide=jupyter%20notebook)
+-->
