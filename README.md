@@ -4,6 +4,7 @@ Hi👋, I am Aakrit.
 [![Github Badge](https://img.shields.io/badge/-Aakrit_Singhal-black?style=flat&logo=github&logoColor=white&link=https://github.com/aakritsinghal)](https://github.com/aakritsinghal)
 
 - Pursuing a Bachelor's Degree 🎓 in Computer Science from Georgia Tech 🏛.
+- Prev Software Engineering Intern at Dell Technologies
 - 🎯 Full Stack Web Developer | MEAN/MERN Stack Developer | Python | Data Science | Machine Learning | NLP | Vision 
 - I'm keen to learn and delve deeper into new software domains and know more about development 💡.  
 - I enjoy creating solutions for real-life use cases through technology and collaboration 💻.
